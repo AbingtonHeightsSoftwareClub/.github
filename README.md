@@ -1,2 +1,1 @@
-# .github
-Abington Heights Software Club
+# Abington Heights Software Club
